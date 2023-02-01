@@ -10,4 +10,15 @@
 
 ### In the initial run we will send a transaction by using the KryptoJobs2Go application. The resul is shown the image below.
 
-![Initial Run](/Results_Images/Initial Run.png)
+![Initial Run](/Results_Images/Initial_Run.png)
+
+
+###  In the image we can clearly see the validated Transaction Hash along with the candidate, their hourly rate, the total number of hours they have been hired for and their total wage.
+
+## Ganache output
+
+###In the image below the first address having Index 0 is the address of the Client and the I have set the second address with the Index 1 as the address of the coandidate with whom the work is being placed. It show both of the accounts initial balance.
+
+![Initial Balance](/Results_Images/Initial_Balance.png)
+
+### 
