@@ -21,4 +21,10 @@
 
 ![Initial Balance](/Results_Images/Initial_Balance.png)
 
-### 
+### The next image shows the balance of both the addresses after the transaction has been through. It reflects the decrease from the initial amount of the CLient's balance and the corresponding increase in wallet balance of the candidate.
+
+![Balance After Transaction](/Results_Images/Balance_After_Transaction.png)
+
+### In the following image it shows the transacrtion details, along with the Sendder's address, the recipient's address along with the transaction value and Gas used.
+
+![Transaction Details](/Results_Images/Transaction_Details.png)
