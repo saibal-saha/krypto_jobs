@@ -8,3 +8,6 @@
 
 ![Initial Image](/Results_Images/Initial.png)
 
+### In the initial run we will send a transaction by using the KryptoJobs2Go application. The resul is shown the image below.
+
+![Initial Run](Results_Images/Initial Run.png)
